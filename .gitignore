@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+/.projector-address
+*.apk
+.idea/
+
+# Local notes and prototypes
+/MEMORY.md
+/.proto/
+/docs/ТЕХНИКА.md
+.DS_Store

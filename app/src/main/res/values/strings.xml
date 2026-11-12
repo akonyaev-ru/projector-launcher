@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Витрина</string>
+    <string name="all_apps">Все приложения</string>
+    <string name="shortcut_keystone">Трапеция</string>
+    <string name="shortcut_projector">Проектор</string>
+    <string name="shortcut_hdmi">HDMI</string>
+    <string name="shortcut_settings">Настройки</string>
+    <string name="placeholder">фото-заглушка: %1$s</string>
+    <string name="not_found">Не найдено на этом устройстве</string>
+    <string name="dock_add">Добавить в док</string>
+    <string name="dock_replace">В док вместо «%1$s»</string>
+    <string name="dock_remove">Убрать из дока</string>
+    <string name="dock_left">Сдвинуть влево</string>
+    <string name="dock_right">Сдвинуть вправо</string>
+</resources>
